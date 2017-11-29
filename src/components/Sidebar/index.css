@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-sidebar {
+    background-color: #0069aa;
+    width: 25%;
+    float: left;
+    height: 100%;
+}

@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-header {
+    min-height: 55px;
+    background-color: #0069aa;
+    width: 75%;
+    float: left;
+}
